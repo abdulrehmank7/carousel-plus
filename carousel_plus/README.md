@@ -21,7 +21,7 @@ add dependency to your `pubspec.yaml` file
 ```yaml
 
 dependencies:
-  carousel_plus: ^1.0.0
+  carousel_page_view: ^1.0.0
 
 ```
 import package in your dart file
