@@ -1,0 +1,37 @@
+name: carousel_plus
+description: "Carousel with 3D style stack transition"
+version: 1.0.0
+homepage: https://github.com/abdulrehmank7/stacked-animated-list
+repository: https://github.com/abdulrehmank7/stacked-animated-list
+issue_tracker: https://github.com/abdulrehmank7/stacked-animated-list/issues
+screenshots:
+  - description: 'This screenshot show the carousel in action.'
+    path: preview.webp
+  - description: 'This screenshot show the carousel list in action.'
+    path: preview.gif
+
+topics:
+  - animation
+  - list
+  - stacked
+  - pageview
+  - listview
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
