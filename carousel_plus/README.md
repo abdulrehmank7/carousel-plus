@@ -3,7 +3,7 @@
 ![pub.dev](https://img.shields.io/badge/pub.dev-1.0.0-green)
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/abdulrehmank7/carousel-plus/master/preview.png" width="30%" alt="" >
+<img src="https://raw.githubusercontent.com/abdulrehmank7/carousel-plus/blob/main/carousel_plus/preview.png" width="30%" alt="" >
 </div>
 
 ## Features
@@ -11,7 +11,7 @@
 Create 3D style carousel with page view. The widget moves in Z-axis and rotates in X-axis. Giving it a 3D effect.
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/abdulrehmank7/carousel-plus/master/preiview.gif" width="30%" >
+<img src="https://raw.githubusercontent.com/abdulrehmank7/carousel-plus/blob/main/carousel_plus/preiview.gif" width="30%" >
 </div>
 
 ## Getting started
