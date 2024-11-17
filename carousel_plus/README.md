@@ -1,6 +1,6 @@
 # Carousel Plus page view flutter
 
-![pub.dev](https://img.shields.io/badge/pub.dev-1.0.1-green)
+![pub.dev](https://img.shields.io/badge/pub.dev-1.0.2-green)
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/abdulrehmank7/carousel-plus/master/carousel_plus/preview.webp" width="30%" alt="" >
@@ -21,14 +21,14 @@ add dependency to your `pubspec.yaml` file
 ```yaml
 
 dependencies:
-  carousel_page_view: ^1.0.1
+  carousel_page_view: ^1.0.2
 
 ```
 import package in your dart file
 
 ```dart
 
-import 'package:carousel_plus/carousel_plus.dart';
+import 'package:carousel_page_view/carousel_plus.dart';
 
 ```
 ## Usage
@@ -38,7 +38,7 @@ Add `CarouselPlus` to your widget and pass the list of children that you want to
 ```dart
 
 import 'package:carousal_test/generated/assets.dart';
-import 'package:carousel_plus/carousel_plus.dart';
+import 'package:carousel_page_view/carousel_plus.dart';
 import 'package:flutter/material.dart';
 
 const carouselImages = [
