@@ -1,9 +1,9 @@
 name: carousel_plus
 description: "Carousel with 3D style stack transition"
 version: 1.0.0
-homepage: https://github.com/abdulrehmank7/stacked-animated-list
-repository: https://github.com/abdulrehmank7/stacked-animated-list
-issue_tracker: https://github.com/abdulrehmank7/stacked-animated-list/issues
+homepage: https://github.com/abdulrehmank7/carousel-plus
+repository: https://github.com/abdulrehmank7/carousel-plus
+issue_tracker: https://github.com/abdulrehmank7/carousel-plus/issues
 screenshots:
   - description: 'This screenshot show the carousel in action.'
     path: preview.webp
