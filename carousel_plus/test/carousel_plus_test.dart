@@ -1,4 +1,4 @@
-import 'package:carousal_plus/carousel_plus.dart';
+import 'package:carousel_plus/carousel_plus.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
